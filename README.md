@@ -1,5 +1,6 @@
 # terrainer
-An up to date Minecraft dirt terrain height tool. Terrainer uses a modified version of cubiomes.
+An up to date Minecraft dirt terrain height tool. Terrainer uses a modified version of cubiomes. 
+Updated version of this tool - https://github.com/pseudogravity/DirtHeight
 
 ```C
 //Search the first 1M seeds 7 height dirt columns at 0 0

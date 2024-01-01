@@ -1,5 +1,5 @@
 # terrainer
-An up to date Minecraft terrain height tool
+An up to date Minecraft terrain height tool. Terrainer uses a modified version of cubiomes.
 
 ```C
 //Search the first 1M seeds 7 height dirt columns at 0 0

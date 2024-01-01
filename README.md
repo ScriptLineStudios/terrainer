@@ -4,7 +4,7 @@ An up to date Minecraft dirt terrain height tool. Terrainer uses a modified vers
 Updated version of this tool - https://github.com/pseudogravity/DirtHeight
 
 ```C
-//Search the first 1M seeds 7 height dirt columns at 0 0
+//Search the first 1M seeds for 7 high dirt columns at 0 0
 
 #include <stdio.h>
 #include <stdint.h>

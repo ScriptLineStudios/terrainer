@@ -2,7 +2,7 @@
 An up to date Minecraft terrain height tool
 
 ```C
-#Search the first 1M seeds 7 height dirt columns at 0 0
+//Search the first 1M seeds 7 height dirt columns at 0 0
 
 #include <stdio.h>
 #include <stdint.h>
